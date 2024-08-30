@@ -1,0 +1,19 @@
+{
+  "name": "@freenewman/ajs",
+  "version": "1.0.0",
+  "description": "\"# ajs\"",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeNewMan/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeNewMan/ajs/issues"
+  },
+  "homepage": "https://github.com/FreeNewMan/ajs#readme"
+}
